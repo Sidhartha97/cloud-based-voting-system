@@ -1,0 +1,10 @@
+-- Insert sample candidates into the candidates table
+INSERT INTO candidates (name, party) VALUES 
+('Alice Johnson', 'Democratic Party'),
+('Bob Smith', 'Republican Party'),
+('Charlie Brown', 'Independent'),
+('Diana White', 'Green Party'),
+('Ethan Clark', 'Libertarian Party');
+
+-- Verify the inserted data
+SELECT * FROM candidates;
