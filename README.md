@@ -3,8 +3,19 @@
 ## Screenshots
 
 ![Screenshot (502)](https://github.com/user-attachments/assets/6efba770-6469-4d0c-b8ad-6dfdc2f17315)
-**- User create an account**
+** User create an account**
 
+![Screenshot (504)](https://github.com/user-attachments/assets/7f406b3f-6d3c-48f9-8795-4f2b14a7c9ff)
+**User login**
+
+![Screenshot (505)](https://github.com/user-attachments/assets/ea6b152b-b9e5-4873-ad2a-c6b4bca9121c)
+**User submit vote**
+
+![Screenshot (507)](https://github.com/user-attachments/assets/08c8be3e-4165-41cd-a146-b978262943f8)
+**User get error if try to vote again**
+
+![Screenshot (508)](https://github.com/user-attachments/assets/f276a9e8-51a7-430f-b9ac-dceaf9f8f0df)
+**Vote result**
 
 ## Project Overview
 
