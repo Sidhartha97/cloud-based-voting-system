@@ -119,6 +119,7 @@ CREATE TABLE votes (
     FOREIGN KEY (candidate_id) REFERENCES candidates(candidate_id) ON DELETE CASCADE
 );
 ```
+![Screenshot (518)](https://github.com/user-attachments/assets/c64a5407-bcf3-4543-92e2-0101354765ec)
 
 ---
 
@@ -145,6 +146,8 @@ aws lambda publish-layer-version --layer-name pymysql-layer \
    - Submitting votes
    - Retrieving results
 
+![Screenshot (513)](https://github.com/user-attachments/assets/7be2a6cf-9032-4456-87ae-a98818a8d2bc)
+
 ---
 
 ### 4. API Gateway Setup (For Frontend Integration)
@@ -159,6 +162,10 @@ aws lambda publish-layer-version --layer-name pymysql-layer \
 4. Enable **CORS**.
 5. Deploy API to `dev` stage.
 6. Copy **Invoke URL** for frontend.
+
+![Screenshot (515)](https://github.com/user-attachments/assets/13af5f5f-6656-442d-9694-f8f8f24303b6)
+
+![Screenshot (526)](https://github.com/user-attachments/assets/006900cd-9cb9-4fff-800f-a01f91b0e563)
 
 ---
 
@@ -192,6 +199,15 @@ npm run build
 - Register a custom domain.
 - Configure **CloudFront** to use **Route 53 domain**.
 - Attach an **SSL Certificate** via **AWS Certificate Manager**.
+
+![Screenshot (519)](https://github.com/user-attachments/assets/c93ed922-0b6f-4acf-925b-cbcd3a245fa0)
+
+![image](https://github.com/user-attachments/assets/534015cc-a133-4fae-bc21-27c2470bc0b4)
+
+![image](https://github.com/user-attachments/assets/60fbbc15-271f-4454-9185-d49414ba2afe)
+
+![image](https://github.com/user-attachments/assets/f80fc026-babb-4341-84e7-41415839a504)
+
 
 ---
 
