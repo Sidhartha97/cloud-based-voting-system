@@ -219,8 +219,7 @@ This project demonstrates a cost-effective, fully serverless voting system using
 ---
 
 ## Author
-**Your Name**  
-sidhartha kumar rout  
+**sidhartha kumar rout**    
 Email: sidharthachintu1997@gmail.com  
 
 ---
