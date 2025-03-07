@@ -30,9 +30,9 @@
 Reduce infrastructure costs by leveraging serverless architecture, as voting is not a frequent activity.
 
 ## Developed By:
-**[Sidhartha Kumar Rout]**  
-**Faculty:** [Rehan Haider]  
-**Institute:** [Intellipaat]  
+**Sidhartha Kumar Rout**  
+**Faculty:** Rehan Haider  
+**Institute:** Intellipaat  
 
 ## Architecture Diagram
 
