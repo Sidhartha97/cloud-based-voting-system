@@ -67,6 +67,12 @@
 1. In Cognito, navigate to **Triggers** → **Post Confirmation Lambda Trigger**
 2. Select a Lambda function that stores user ID and email in RDS.
 
+![Screenshot (516)](https://github.com/user-attachments/assets/d2042d9d-3768-49b4-8013-9941c541fea9)
+
+![image](https://github.com/user-attachments/assets/1bb4e92f-3ee1-4e17-bcb3-e4cd849e4a94)
+
+![Screenshot (509)](https://github.com/user-attachments/assets/421347ad-0da2-43a6-ade3-4156bd4b14f0)
+
 ---
 
 ### 2. Database Setup (AWS RDS - MySQL)
