@@ -1,0 +1,130 @@
+/* General Page Styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* ⬇️ Made container wider */
+  .voting-container {
+    max-width: 600px; /* 🔹 Increased width from 400px to 600px */
+    background: white;
+    margin: 40px auto;
+    padding: 30px; /* 🔹 Added more padding for better spacing */
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Header */
+  h1 {
+    color: #2c3e50;
+    font-size: 28px; /* 🔹 Slightly increased font size */
+    margin-bottom: 10px; /* 🔹 Added margin for spacing */
+  }
+  
+  h2 {
+    color: #34495e;
+    font-size: 22px; /* 🔹 Increased font size */
+    margin-bottom: 15px;
+  }
+  
+  /* Candidate List */
+  .candidate-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .candidate-list li {
+    background: #ecf0f1;
+    padding: 15px; /* 🔹 Increased padding */
+    margin: 10px 0; /* 🔹 Adjusted margin */
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px; /* 🔹 Increased font size */
+    transition: 0.3s;
+  }
+  
+  .candidate-list li:hover {
+    background: #d5dbdb;
+  }
+  
+  .selected {
+    border: 3px solid #2980b9; /* 🔹 Made border more visible */
+    background: #aed6f1;
+    font-weight: bold;
+  }
+  
+  /* Buttons */
+  button {
+    width: 100%;
+    padding: 12px; /* 🔹 Increased padding for bigger buttons */
+    margin-top: 15px;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px; /* 🔹 Increased font size */
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  .vote-btn {
+    background-color: #3498db;
+    color: white;
+  }
+  
+  .vote-btn:hover {
+    background-color: #2980b9;
+  }
+  
+  .vote-btn:disabled {
+    background-color: #bdc3c7;
+    cursor: not-allowed;
+  }
+  
+  /* ⬇️ Adjusted Logout Button */
+  .logout-btn {
+    background-color: #e74c3c;
+    color: white;
+    font-size: 18px; /* 🔹 Increased font size */
+  }
+  
+  .logout-btn:hover {
+    background-color: #c0392b;
+  }
+  
+  /* Election Results Section */
+  .election-results {
+    margin-top: 25px; /* 🔹 Added more spacing */
+    padding-top: 15px;
+  }
+  
+  .election-results h2 {
+    font-size: 22px;
+  }
+  
+  .get-results-btn {
+    background-color: #27ae60;
+    color: white;
+    font-size: 18px;
+  }
+  
+  .get-results-btn:hover {
+    background-color: #219150;
+  }
+  
+  /* Horizontal Line */
+  hr {
+    margin: 25px 0; /* 🔹 Increased spacing */
+    border: 0;
+    height: 1px;
+    background: #bdc3c7;
+  }
+  
+  /* Error Message */
+  .error-message {
+    color: red;
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  

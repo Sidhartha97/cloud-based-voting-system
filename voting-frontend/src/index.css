@@ -1,0 +1,16 @@
+:root {
+  --amplify-primary-color: #4a90e2;
+  --amplify-primary-tint: #1e40af;
+  --amplify-primary-shade: #122b59;
+  --amplify-font-family: "Arial", sans-serif;
+}
+
+.amplify-button {
+  border-radius: 8px;
+  padding: 10px 15px;
+}
+
+.amplify-input {
+  border-radius: 5px;
+  padding: 8px;
+}
