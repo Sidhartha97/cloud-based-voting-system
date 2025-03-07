@@ -1,5 +1,11 @@
 # 3-Tier Serverless Voting App
 
+## Screenshots
+
+![Screenshot (502)](https://github.com/user-attachments/assets/6efba770-6469-4d0c-b8ad-6dfdc2f17315)
+**- User create an account**
+
+
 ## Project Overview
 
 - **Project Name:** Cloud-based Serverless Voting App
