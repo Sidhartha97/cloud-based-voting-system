@@ -17,15 +17,22 @@
 ![Screenshot (508)](https://github.com/user-attachments/assets/f276a9e8-51a7-430f-b9ac-dceaf9f8f0df)
                                    **Vote result**
 
-## Project Overview
+## Project Overview  
+**Project Name:** Cloud-based Serverless Voting App  
+**Description:** A serverless voting application hosted on the AWS cloud platform.
 
-- **Project Name:** Cloud-based Serverless Voting App
-- **Description:** A serverless voting application hosted on the AWS cloud platform.
-- **Features:**
-  - User authentication via AWS Cognito
-  - Secure voting system using AWS Lambda, API Gateway, and RDS
-  - Cost-effective cloud-based infrastructure
-- **Objective:** Reduce infrastructure costs by leveraging serverless architecture, as voting is not a frequent activity.
+## Features:
+- User authentication via AWS Cognito
+- Secure voting system using AWS Lambda, API Gateway, and RDS
+- Cost-effective cloud-based infrastructure
+
+## Objective:
+Reduce infrastructure costs by leveraging serverless architecture, as voting is not a frequent activity.
+
+## Developed By:
+**[Sidhartha Kumar Rout]**  
+**Faculty:** [Rehan Haider]  
+**Institute:** [Intellipaat]  
 
 ## Architecture Diagram
 
